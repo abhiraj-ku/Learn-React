@@ -1,0 +1,23 @@
+what is create-react-app
+
+Create React App (CRA) is a command-line interface tool that automates the creation of a new React application. 
+It is an officially supported tool by the React team and provides a streamlined way to set up a new React project
+without having to configure complex build tools like webpack and Babel.
+
+Create React App sets up a development environment with all the necessary tools to get started building React applications. 
+It includes a pre-configured development server, a build process to optimize and bundle your code for production,
+ and a number of other helpful features such as hot reloading for faster development.
+
+With Create React App, developers can quickly bootstrap a new React project with the latest best practices 
+and focus on writing code instead of configuring build tools. It's an excellent starting point for new React projects 
+and is used by many developers and organizations as the foundation for their web applications.
+
+In React, an element is the smallest building block of a React application. 
+It is an immutable description of what should appear on the screen, 
+and it defines the structure and properties of a user interface component. 
+Elements are lightweight, and multiple elements can be combined to form a more complex user interface.
+
+An element in React is represented as a plain JavaScript object that describes the component's properties (props),
+ its children, and the type of component to render. 
+ The type of component can be either a built-in HTML element such as "div" or "span",
+  or a user-defined component created by a developer.
